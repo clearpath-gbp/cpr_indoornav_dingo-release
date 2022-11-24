@@ -2,6 +2,11 @@
 Changelog for package cpr_indoornav_dingo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.2 (2022-11-24)
+------------------
+* Add the web GUI manual control input
+* Contributors: Chris Iverach-Brereton
+
 0.3.1 (2022-06-03)
 ------------------
 * Change the ROS1->2 bridge domain to 91.
