@@ -1,3 +1,26 @@
+## cpr_indoornav_dingo (noetic) - 0.4.3-1
+
+The packages in the `cpr_indoornav_dingo` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -t noetic -r noetic cpr_indoornav_dingo` on `Fri, 07 Jun 2024 17:15:59 -0000`
+
+The `cpr_indoornav_dingo` package was released.
+
+Version of package(s) in repository `cpr_indoornav_dingo`:
+
+- upstream repository: https://github.com/clearpathrobotics/cpr-indoornav-dingo.git
+- release repository: https://github.com/clearpath-gbp/cpr_indoornav_dingo-release.git
+- rosdistro version: `0.4.2-1`
+- old version: `0.4.2-1`
+- new version: `0.4.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.24.0`
+- rosdistro version: `0.9.1`
+- vcstools version: `0.1.42`
+
+
 ## cpr_indoornav_dingo (noetic) - 0.4.2-1
 
 The packages in the `cpr_indoornav_dingo` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -t noetic -r noetic cpr_indoornav_dingo` on `Mon, 27 May 2024 16:04:09 -0000`
